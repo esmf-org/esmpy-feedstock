@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 export ESMFMKFILE=$(find ${PREFIX} -name '*esmf.mk')
 
 ESMPY_SRC=$(find . -name '*ESMPy*')
