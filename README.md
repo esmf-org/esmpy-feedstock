@@ -5,7 +5,7 @@ Home: https://www.earthsystemcog.org/projects/esmpy/
 
 Package license: The University of Illinois/NCSA Open Source License (NCSA)
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: ESMPy is a Python interface to the Earth System Modeling Framework (ESMF) regridding utility.
 
@@ -69,9 +69,15 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/esmpy-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/esmpy-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/esmpy-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/esmpy-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/esmpy-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/esmpy-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/esmpy/badges/version.svg)](https://anaconda.org/conda-forge/esmpy)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/esmpy/badges/downloads.svg)](https://anaconda.org/conda-forge/esmpy)
 
 
 Updating esmpy-feedstock
