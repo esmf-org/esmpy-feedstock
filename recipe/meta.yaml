@@ -1,4 +1,4 @@
-{% set version = "7.1.0r" %}
+{% set version = "7.1.0" %}
 {% set ver = version.replace(".", "_") %}
 
 package:
@@ -11,7 +11,7 @@ source:
 
 
 build:
-  number: 2
+  number: 3
   skip: True  # [win]
 
 requirements:
